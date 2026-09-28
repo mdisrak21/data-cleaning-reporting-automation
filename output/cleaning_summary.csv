@@ -1,0 +1,8 @@
+Measure,Value
+Original rows,1067371
+Duplicate rows removed,34335
+Rows removed due to missing essential values,0
+Cancellation rows excluded,19104
+Rows with non-positive quantity or price excluded,25122
+Final cleaned sales rows,1007913
+Missing CustomerID values retained,228488
